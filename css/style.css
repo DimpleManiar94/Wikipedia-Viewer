@@ -1,0 +1,19 @@
+html, body{
+  height: 100%;
+  width: 100%;
+}
+.top{
+  padding: 40px;
+  background-color: #C5CAE9;
+  margin-bottom: 30px;
+}
+.random{
+  color: white;
+}
+.random:hover, .random:link, .random:active, .random:visited{
+  text-decoration:none;
+  color: white;
+}
+.btn-primary{
+  margin: 20px;
+}
